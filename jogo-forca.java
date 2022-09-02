@@ -21,7 +21,7 @@ public class JogoForca {
             "TESTE"
         };
 
-        int indicePalavraSorteada = 2;
+        int indicePalavraSorteada;
         int chancesRestantes = 10;
         String palavraSorteada = bancoPalavras[indicePalavraSorteada];
         int tamPalavraSorteada = palavraSorteada.length();
