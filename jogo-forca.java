@@ -18,6 +18,7 @@ public class JogoForca {
             "PESSEGO",
             "MORANGO"
             "PERA"
+            "TESTE"
         };
 
         int indicePalavraSorteada = 2;
